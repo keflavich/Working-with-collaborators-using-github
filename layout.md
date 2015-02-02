@@ -7,5 +7,5 @@ figures/auto/auto.png
 Working.tex
 figures/access/access.png
 offline mode.tex
-conclusion.tex
 figures/github-paper/github-paper.png
+conclusion.tex
